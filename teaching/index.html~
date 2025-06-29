@@ -1,0 +1,159 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <script type="text/javascript"
+  src="https://web.williams.edu/Mathematics/it3/LaTeXMathML.js">
+  </script>
+  <title>Ivo Terek</title>
+  <meta name="description" content="Ivo Terek's personal page" />
+  <meta name="keywords" content=" " />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="../css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+  	<script type="text/javascript"
+			src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+			MathJax.Hub.Config({
+				extensions: ["tex2jax.js"],
+				jax: ["input/TeX", "output/HTML-CSS"],
+			tex2jax: {
+				  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+				  displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+				  processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+		</script>
+
+<style type="text/css">
+@font-face {
+    font-family: "Latin Modern";
+    src: url(https://github.com/vincentdoerig/latex-css/blob/master/fonts/LM-regular.ttf) format("truetype");
+}
+p.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+h4.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+li.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+ul.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+h1.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+</style>
+
+
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo"><h1><p style="font-size: 80%;">Ivo Terek</p></h1></div>
+      <nav>
+        <ul class="lavaLampWithImage" id="lava_menu">
+          <li class="current"><a href="https://web.williams.edu/Mathematics/it3/">About me</a></li>
+	  <li><a href="https://web.williams.edu/Mathematics/it3/publications">Publications</a>
+          <li><a href="https://web.williams.edu/Mathematics/it3/texts/">Texts</a></li>
+          <li><a href="https://web.williams.edu/Mathematics/it3/teaching/">Teaching</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    
+    <div id="site_content">       <h1 style="text-align:center"><u>Teaching</u></h1>  <div style="text-align:center">In this page you may see my complete teaching history.</div>
+
+  
+      <h2 style="margin-left: 1.5em">Williams College</h2>
+      
+      <div style="margin-left:1.5em">
+	<ul>
+	  <li>MATH250 - Linear Algebra (Spring 2025 - Instructor).</li>
+	  <li>MATH426 - Differential Topology (Fall 2024 - Instructor).</li>
+	  <li>MATH326 - Differential Geometry (Fall 2024 - Instructor).</li>	        </ul></div>
+      
+	
+	
+	<h2 style="margin-left: 1.5em">The Ohio State University</h2>
+
+<div style="margin-left: 1.5em"><b>Awards:</b> First-Year Distinguished Graduate Teaching Associate Award (2019), Phil Huneke Excellence in Teaching Award (2022), <br> Graduate Associate Teaching Award (2023).</p></div>
+
+	<div style="text-align:center; float:right;margin-right: 1.5em; margin-left: 1.5em; margin-bottom: 1.5em;margin-top: 1em"><img width="420" height="250" src="osu_22.png" alt="OSU Mar/22" style="padding-bottomm:0.5em" /><br>The Ohio State University - March 2022</div>
+
+<div style="margin-left: 1.5em">
+	<ul>
+	  <li> MATH2177 - Mathematical Topics for Engineers <a href="info_au23.pdf">(Autumn 2023 - TA)</a>. <a href="MATH2177_AU23_rec_diary.pdf" target="blank">Class diary (82 pages)</a>.</li>
+
+	  <li> MATH2177 - Mathematical Topics for Engineers <a href="info_au22.pdf">(Autumn 2022 - TA)</a>. <a href="MATH2177_AU22_rec_diary.pdf" target="blank">Class diary (90 pages)</a>.</li>
+	  <li> Causality and Spacetimes <a href="https://u.osu.edu/gmsminicourses/causality-and-spacetimes-2022/">(Graduate Math Summer Minicourses 2022 - Instructor)</a>.</li>
+	  <li> MATH2177 - Mathematical Topics for Engineers <a href="info_sp22.pdf">(Spring 2022 - TA)</a>. <br><a href="MATH2177_SP22_rec_diary.pdf" target="blank">Class diary (75 pages)</a>.</li>
+	  <li> Symplectic Geometry Crash Course <a href="https://u.osu.edu/gmsminicourses/symplectic-geometry/">(Graduate Math Summer Minicourses 2021 - Instructor)</a>. <a href="https://web.williams.edu/Mathematics/it3/texts/symp_geo.pdf">Lecture notes (86 pages)</a>.</li>
+	  <li>MATH3345 - Foundations of Higher Mathematics (Spring 2021 - Grader).</li>
+	  <li>MATH1150 - Precalculus <a href="info_au20.pdf">(Autumn 2020 - TA)</a>.</li>
+	  <li>MATH1149 - Trigonometry <a href="info_sp20.pdf">(Spring 2020 - TA)</a>.</li>
+	  <li>MATH2173 - Engineering Mathematics B <a href="info_au19.pdf">(Autumn 2019 - TA)</a>.</li> 
+	  <li>MATH1152 - Calculus 2 <a href="info_sp19.pdf">(Spring 2019 - TA)</a>.</li>
+	  <li>MATH1151 - Calculus 1 <a href="info_au18.pdf">(Autumn 2018 - TA)</a>.</li>
+	</ul></div>
+
+
+<div style="text-align:center; float:left; margin-left: 1.5em; margin-right: 2.5em; margin-bottom:1em"><img width="294" height="294" src="usp19.jpg" alt="IME-USP Mar/19" style="padding-bottomm:1em"><br>University of São Paulo - March 2019</div>
+	
+	<h2>University of São Paulo</h2>
+	
+	<ul>
+	  <li>MAT6702 - Topics in Lorentz Geometry <a href="https://web.williams.edu/Mathematics/it3/teaching/MAT6702_OSU-USP19.html">(Spring 2019 - Instructor)</a>. <a href="https://arxiv.org/abs/1908.01710" target="blank">Lecture notes (76 pages)</a>.</li>
+	  <li>MAT3120 - Differential and Integral Calculus III <a href="https://www.ime.usp.br/~terek/monitorias/mat3120-2018.html">(Oceanographic Institute, Spring 2018 - TA)</a>.</li>
+	  <li>MAT5719 - Geometric Differential Calculus in $\Bbb R^n$ <a href="https://www.ime.usp.br/~terek/monitorias/mat5719-2018.html">(Institute of Mathematics and Statistics, Winter 2018 - TA)</a>.</li>
+	  <li>MAT2454 - Differential and Integral Calculus I (Polytechnique School, Autumn 2017 - TA).</li>
+	  <li>MAT2453 - Differential and Integral Calculus I (Polytechnique School, Spring 2017 - TA).</li>
+	  <li>Linear Algebra (Summer Program, Institute of Mathematics and Statistics, Winter 2017 - TA).</li>
+	  <li>MAT0336 - Differential Geometry II (Institute of Mathematics and Statistics, Autumn 2016 - TA).</li>
+	  <li>MAT0326 - Differential Geometry I <a href="https://www.ime.usp.br/~terek/monitorias/mat0326-2016.html">(Institute of Mathematics and Statistics, Autumn 2016 - TA)</a>.</li> 
+	  <li>MAT0111 - Differential and Integral Calculus I (Oceanographic Institute, Spring 2014 - TA).</li>
+	  <li>MAE0116 - Notions of Statistics (Institute of Mathematics and Statistics, Autumn 2013 - TA).</li>
+	</ul>
+	
+	<div style="margin-left: 1.5em"><p class="customfont">
+	  <b>Note:</b> some of the older links may break with time.</p></div>
+      </div>
+      
+      
+    </div>
+    <footer>
+      <p class="customfont"><a href="https://web.williams.edu/Mathematics/it3/">About me</a> | <a href="https://web.williams.edu/Mathematics/it3/publications/">Publications</a> | <a href="https://web.williams.edu/Mathematics/it3/texts/">Texts</a> | <a href="https://web.williams.edu/Mathematics/it3/teaching/">Teaching</a>  <br> <a href="mailto:it3@williams.edu">it3@williams.edu</a> <br>
+	<a href="http://www.css3templates.co.uk">design from css3templates.co.uk</a></p>
+    </footer>
+    
+
+    
+    <CENTER><script language="JavaScript">
+	
+	
+    </script></CENTER>
+    
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="../js/jquery.min.js"></script>
+  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(function() {
+    $("#lava_menu").lavaLamp({
+        fx: "backout",
+        speed: 700
+      });
+    });
+  </script>
+</body>
+</html>
