@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <script type="text/javascript"
+  src="https://web.williams.edu/Mathematics/it3/LaTeXMathML.js">
+  </script>
+  <title>Ivo Terek</title>
+  <meta name="description" content="Ivo Terek's personal page" />
+  <meta name="keywords" content=" " />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="../css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="http://www.ime.usp.br/~terek/js/modernizr-1.5.min.js"></script>
+  	<script type="text/javascript"
+			src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+			MathJax.Hub.Config({
+				extensions: ["tex2jax.js"],
+				jax: ["input/TeX", "output/HTML-CSS"],
+			tex2jax: {
+				  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+				  displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+				  processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+		</script>
+
+<style type="text/css">
+@font-face {
+    font-family: "Latin Modern";
+    src: url(https://github.com/vincentdoerig/latex-css/blob/master/fonts/LM-regular.ttf) format("truetype");
+}
+p.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+h4.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+li.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+ul.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+h1.customfont {
+    font-family: "Latin Modern", Verdana, Tahoma;
+}
+
+</style>
+
+
+</head>
+
+<body>
+  <div id="main">
+    <header>
+     <div id="logo"><h1><p style="font-size: 80%;">Ivo Terek</p></h1></div>
+      <nav>
+        <ul class="lavaLampWithImage" id="lava_menu">
+          <li class="current"><a href="https://web.williams.edu/Mathematics/it3/">About me</a></li>
+	<li><a href="https://web.williams.edu/Mathematics/it3/publications">Publications</a></li>
+          <li><a href="https://web.williams.edu/Mathematics/it3/texts/">Texts</a></li>
+          <li><a href="https://web.williams.edu/Mathematics/it3/teaching/">Teaching</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="site_content">
+
+<h1 style="text-align:center"><u>Texts</u></h1>  <div style="margin-left: 2em">In this page you may find some notes I wrote to organize my own thoughts on a few select topics of my interest. These notes are informal and may contain mistakes, although some people have told me they found them useful on occasion. Read at your own peril.</div>
+
+<br>
+
+<div style="margin-left:1.5em"> <h2>Short notes (up to 15 pages long)</h2><ol reversed class="customfont">
+    <li><a href="TpM.pdf" target="blank">Equivalent definitions of tangent spaces</a>.</li>
+    <li><a href="positive_sectional.pdf" target="blank">Compact hypersurfaces of Euclidean spaces have a point where the sectional curvature is positive</a>.</li>
+    <li><a href="var_volume.pdf" target="blank">Variations of volume</a>.</li>
+    <li><a href="ricci_identity.pdf" target="blank">The Ricci identity</a>.</li>
+    <li><a href="tautological.pdf" target="blank">On total spaces of tautological line bundles</a>.</li>
+    <li><a href="semidirect.pdf" target="blank">On the Lie algebra of a semidirect product of Lie groups</a>.</li>
+    <li><a href="curvature_modifications.pdf" target="blank">Affine curvature modifications</a>.</li>
+    <li><a href="associated_connection.pdf" target="blank">Connections on associated vector bundles</a>.</li>
+    <li><a href="quotients.pdf" target="blank">Quick summary on equivalence relations and quotients</a>.</li>
+    <li><a href="pp-waves.pdf" target="blank">On pp-wave spacetimes</a>.</li>
+    <li><a href="time_ev.pdf" target="blank">Time evolution of Riemannian objects and the Einstein-Hilbert functional</a>.</li>
+    <li><a href="the_einstein_manifold.pdf" target="blank">The "Einstein Manifold"</a>.</li>
+    <li><a href="conformal.pdf" target="blank">Some conformal geometry formulas</a>.</li>
+    <li><a href="so3.pdf" target="blank">A quick note on orthogonal Lie algebras</a>.</li>
+    <li> <a href="index_curvature.pdf" target="blank">Some index computations with curvature tensors</a>.</li>
+    <li> <a href="curvaturelike.pdf" target="blank">About curvaturelike tensors</a>.</li>
+    <li> <a href="killing.pdf" target="blank">Introductory notes on Killing fields</a>.</li>
+    <li> <a href="cov_ext.pdf" target="blank">A few formulas with covariant exterior derivatives</a>.</li>
+    <li> <a href="hessian.pdf" target="blank">Why is the Hessian of a function well-defined only at its critical points?</a></li>
+</ol></div>
+
+
+<div style="margin-left:1.5em"> <h2>Longer notes</h2><ol reversed class="customfont">
+    <li><a href="GQT-companion.pdf">Companion Notes on Daniel Freed's <i>Quantum Theory from a Geometric Viewpoint</i>.</a> Text written by B. Halcomb, G. Hu, R. Kaldybayev, and T. Mollano, during an independent study course I supervised at Williams College.</li>
+    <li><a href="https://web.williams.edu/Mathematics/it3/teaching/manifolds.pdf" target="blank">Lecture notes for the <i>MATH426 - Differential Topology</i> course I taught at Williams College (Fall 2024).</li>
+<li><a href="symp_geo.pdf" target="blank">A Guide to Symplectic Geometry</a>.</li>
+<li><a href="candidacy.pdf" target="blank">What I'm up to here...</a> (OSU PhD Candidacy Exam report)</li>
+<li> <a href="projective_space.pdf" target="blank">Projective spaces and Grassmannians</a>.</li>
+<li> <a href="principal.pdf" target="blank">Introductory notes on principal bundles</a>.</li>
+<li> <a href="tensors.pdf" target="blank">A mini-course on tensors</a>.</li>
+<li> <a href="var_noether.pdf" target="blank">Variational calculus on manifolds and Noether's theorem</a>.</li>
+<li> <a href="cartan_formalism.pdf" target="blank">Some notes on Cartan formalism, and explicit computations</a>.</li>
+<li> <a href="MAT6702_OSU-USP19_notes.pdf" target="blank">Lecture notes for the course <i>MAT6702 - Topics in Lorentz Geometry</i> I taught in the University of São Paulo (March 2019)</a>.</li>
+<li> <a href="MATH6112_SP19_notes.pdf" target="blank">Lecture notes for the Spring 2019 <i>MATH6112 - Abstract Algebra II</i> course (completed)</a>.</li>
+<li> <a href="diss.pdf" target="blank">My Master thesis (in Portuguese)</a>.</li></ol>
+</div>
+
+	</div>
+      </div>
+    
+     <footer>
+      <p class="customfont"><a href="https://web.williams.edu/Mathematics/it3/">About me</a> | <a href="https://web.williams.edu/Mathematics/it3/publications/">Publications</a> | <a href="https://web.williams.edu/Mathematics/it3/texts">Texts</a> | <a href="https://web.williams.edu/Mathematics/it3/teaching/">Teaching</a>  <br> <a href="mailto:it3@williams.edu">it3@williams.edu</a> <br>
+     <a href="http://www.css3templates.co.uk">design from css3templates.co.uk</a></p>
+    </footer>
+
+<br>
+
+<CENTER><script language="JavaScript">
+
+var date1 = new Date();
+
+document.write("Date <b>"+date1.getDate()+"/"+parseInt(date1.getMonth()+1)+"/"+date1.getFullYear());                
+                                                                                                                    
+document.write("</b> Time <b>"+date1.getHours()+":"+date1.getMinutes()+"</b>");
+
+</script></CENTER>
+
+
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="../js/jquery.min.js"></script>
+  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      $("#lava_menu").lavaLamp({
+        fx: "backout",
+        speed: 700
+      });
+    });
+  </script>
+</body>
+</html>
